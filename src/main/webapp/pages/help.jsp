@@ -146,9 +146,6 @@
         <div class="sc"><div class="si g">✅</div>
           <div><div class="sv">5</div><div class="sl">Room Types</div></div>
         </div>
-        <div class="sc"><div class="si o">🧩</div>
-          <div><div class="sv">3</div><div class="sl">Design Patterns</div></div>
-        </div>
       </div>
 
       <!-- ════════════════════════════════════════════ -->
@@ -318,7 +315,7 @@
         <!-- 8. Keyboard Shortcuts -->
         <div class="acc-item">
           <button class="acc-trigger" onclick="toggle(this)">
-            <span style="display:flex;align-items:center;gap:10px;"><span class="acc-icon">⌨️</span> 9. Keyboard Shortcuts & Tips</span>
+            <span style="display:flex;align-items:center;gap:10px;"><span class="acc-icon">⌨️</span> 8. Keyboard Shortcuts & Tips</span>
             <span class="acc-arrow">▼</span>
           </button>
           <div class="acc-body">
@@ -340,7 +337,7 @@
         <!-- 9. Contact / Resort Info -->
         <div class="acc-item">
           <button class="acc-trigger" onclick="toggle(this)">
-            <span style="display:flex;align-items:center;gap:10px;"><span class="acc-icon">📞</span> 10. Resort Contact Information</span>
+            <span style="display:flex;align-items:center;gap:10px;"><span class="acc-icon">📞</span> 9. Resort Contact Information</span>
             <span class="acc-arrow">▼</span>
           </button>
           <div class="acc-body">

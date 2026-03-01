@@ -131,7 +131,7 @@
         </div>
 
         <button type="submit" id="submitBtn" class="btn btn-primary" style="width:100%;justify-content:center;padding:12px;font-size:.9rem;">
-          Sign In &#8594;
+          Sign In
         </button>
       </form>
     </div>

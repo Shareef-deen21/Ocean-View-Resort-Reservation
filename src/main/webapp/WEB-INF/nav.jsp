@@ -19,7 +19,7 @@
     <a href="<%=_cp%>/reservations" class="sb-link <%=_uri.contains("reservations")&&!_uri.contains("new")?"active":""%>">
       <span class="ico">📋</span> All Reservations
     </a>
-    <a href="<%=_cp%>/reservations?action=new" class="sb-link">
+    <a href="<%=_cp%>/reservations?action=new" class="sb-link <%=_uri.contains("newReservation")?"active":""%>" >
       <span class="ico">➕</span> New Reservation
     </a>
     <div class="sb-section">Property</div>

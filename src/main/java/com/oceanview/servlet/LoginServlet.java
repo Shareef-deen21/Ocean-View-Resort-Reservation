@@ -92,7 +92,7 @@ public class LoginServlet extends BaseServlet {
             // ── 3. Database connection error ──────────────────────
             q.setAttribute("errorType",     "db");
             q.setAttribute("dbError",
-                "Cannot connect to the database. Please check DBConnection.java — " + e.getMessage());
+                "Cannot connect to the database. Please check Database connection");
             q.setAttribute("enteredUsername", username);
             fwd(q, r, "/pages/login.jsp");
         }

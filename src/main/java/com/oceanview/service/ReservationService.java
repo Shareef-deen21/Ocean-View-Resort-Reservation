@@ -4,6 +4,7 @@ import com.oceanview.command.ReservationCommand;
 import com.oceanview.model.Reservation;
 import com.oceanview.model.Room;
 import com.oceanview.model.User;
+import com.oceanview.model.Guest;
 import com.oceanview.repository.GuestRepository;
 import com.oceanview.repository.ReservationRepository;
 import com.oceanview.repository.RoomRepository;
