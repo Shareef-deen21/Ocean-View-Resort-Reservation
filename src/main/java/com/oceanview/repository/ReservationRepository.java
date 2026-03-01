@@ -2,6 +2,7 @@ package com.oceanview.repository;
 
 import com.oceanview.model.Reservation;
 import com.oceanview.model.Room;
+import com.oceanview.model.Guest;
 import com.oceanview.singleton.DBConnection;
 
 import java.sql.*;
